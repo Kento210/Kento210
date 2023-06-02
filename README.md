@@ -12,6 +12,7 @@
   <a href="http://qiita.com/Kento210">
     <img height="20" src="https://qiita-badge.apiapi.app/s/Kento210/posts.svg" />
   </a>
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kento210&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kento210&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kento210&theme=default)
