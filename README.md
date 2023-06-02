@@ -1,3 +1,4 @@
+## Slogan : 誰かを笑顔にするためのエンジニアリング
 # My Profile
 <p align="left">
   <a href="https://github.com/Kento210/Kento210/">
