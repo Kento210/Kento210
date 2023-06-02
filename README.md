@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kento210&theme=default)
+
 <p align="left">
   <a href="https://github.com/Kento210/Kento210/">
     <img src="https://komarev.com/ghpvc/?username=Kento210" alt="Kento210" />
@@ -49,7 +52,6 @@ Here are some ideas to get you started:
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
-
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
 
@@ -59,6 +61,3 @@ Here are some ideas to get you started:
 [![trophy](https://github-profile-trophy.vercel.app/?username={名前}&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 -->
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kento210&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kento210&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kento210&theme=default&utcOffset=8)
