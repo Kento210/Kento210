@@ -15,6 +15,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="left">
+  <a href="https://github.com/Kento210/Kento210/">
+    <img src="https://komarev.com/ghpvc/?username=Kento210" alt="Kento210" />
+  </a>
+  <a href="http://twitter.com/inkentti">
+    <img height="20" src="https://img.shields.io/twitter/follow/InKentti?label=Twitter&logo=twitter&style=flat" />
+  </a>
+  <a href="https://github.com/Kento210">
+    <img height="20" src="https://img.shields.io/github/followers/Kento210?label=follow&logo=github&style=flat" />
+  </a>
+  <a href="http://qiita.com/Kento210">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/Kento210/posts.svg" />
+  </a>
+  <//qiita.com/Kento210">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/Kento210/contributions.svg" />
+  </a>
+</p>
+  
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kento210&layout=compact" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Kento210&show_icons=true" />
