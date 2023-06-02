@@ -15,9 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kento210&theme=default)
-
 <p align="left">
   <a href="https://github.com/Kento210/Kento210/">
     <img src="https://komarev.com/ghpvc/?username=Kento210" alt="Kento210" />
@@ -31,7 +28,9 @@ Here are some ideas to get you started:
   <a href="http://qiita.com/Kento210">
     <img height="20" src="https://qiita-badge.apiapi.app/s/Kento210/posts.svg" />
   </a>
-  
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kento210&theme=default)
+
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kento210&layout=compact" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Kento210&show_icons=true" />
