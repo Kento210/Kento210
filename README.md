@@ -120,7 +120,7 @@ Google Forms、Sheets、GmailのGoogleの同期システム、GASを用いたGoo
 </p>
 <p>
 関連レポジトリ：<br>
-
+https://github.com/Kento210/Ohiru-DX2022
 </p>
 <p>
 その他：<br>
