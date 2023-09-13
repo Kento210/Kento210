@@ -44,5 +44,5 @@
 </p>
 
 # My blog/portfolio
-[Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.](https://kento-blog.notion.site/)
+https://kento-blog.notion.site/
 
