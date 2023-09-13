@@ -37,5 +37,5 @@
   </a>  
 </p>
 
-# blog/portfolio
+# Blog/Portfolio
 [私についてもっと知りたい方はこちらからどうぞ！！！！](https://kento-blog.notion.site/)
