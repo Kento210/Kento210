@@ -37,6 +37,9 @@
   </a>  
 </p>
 
+# Blog/Portfolio
+[私についてもっと知りたい方はこちらからどうぞ！！！！](https://kento-blog.notion.site/)
+
 # Works
 ### [SuwaSystems](https://github.com/SuwaGeeks/SuwaSystems) : [2023技育展決勝登壇作品]
 
@@ -65,6 +68,3 @@
 ### [Ohiru](https://github.com/Kento210/Ohiru-DX2022) : [公立諏訪東京理科大学 2022年度 DX推進プロジェクト 優秀賞]
 
 小規模な社内食堂や小売をターゲットとした販売促進アプリケーション。Google スプレットシート + フォームで制御し、LINEに通知を送るなど機能は多いが、完全無料で動作するのがこだわり
-
-# Blog/Portfolio
-[私についてもっと知りたい方はこちらからどうぞ！！！！](https://kento-blog.notion.site/)
