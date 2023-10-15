@@ -19,7 +19,7 @@
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Kento210&theme=onedark&show_icons=ture" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Kento210&theme=onedark&column=8)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Kento210&theme=onedark&column=9)](https://github.com/ryo-ma/github-profile-trophy)
 
 # Best Skills
 <p align="left">
